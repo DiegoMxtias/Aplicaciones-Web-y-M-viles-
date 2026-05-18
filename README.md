@@ -18,3 +18,26 @@ Al finalizar el curso, el estudiante será capaz de:
 - Desarrollar aplicaciones interactivas
 - Diseñar interfaces responsivas
 - Aplicar buena prácticas de desarrollo
+
+---
+
+## Tecnologías utilizadas
+
+| Tecnología | Uso |
+|------------|-----|
+| HTML5 | Estructura de páginas |
+| CSS3 | Diseño y estilos |
+| JavaScript | Interactividad y lógica |
+| GitHub | Gestión de proyectos y código |
+
+---
+
+## Organización del repositorio
+
+```txt
+unidad-1/ → Fundamentos web interactivos
+unidad-2/ → Lógica aplicada con JavaScript
+unidad-3/ → Formularios y almacenamiento
+unidad-4/ → Diseño responsive y UX
+unidad-5/ → Aplicaciones con enfoque móvil
+unidad-6/ → Proyecto final integrador
